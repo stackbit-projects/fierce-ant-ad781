@@ -141,3 +141,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://fierce-ant-ad781.netlify.app'
