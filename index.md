@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
+    subtitle: We are a young and dynamic team
     align: center
     grid_items:
       - image: images/logo-1.svg
