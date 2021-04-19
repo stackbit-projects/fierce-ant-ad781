@@ -24,7 +24,7 @@ header:
     - label: TECHNIQUES
       url: /about
       style: link
-    - label: Blog
+    - label: BLOG
       url: /blog
       style: link
     - label: Style Guide
