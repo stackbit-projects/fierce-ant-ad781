@@ -21,7 +21,7 @@ header:
     - label: USE CASES
       url: /pricing
       style: link
-    - label: TECHNI
+    - label: TECHNIQUES
       url: /about
       style: link
     - label: Blog
