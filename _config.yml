@@ -27,7 +27,7 @@ header:
     - label: BLOG
       url: /blog
       style: link
-    - label: Style Guide
+    - label: PRICING
       url: /style-guide
       style: link
   has_secondary_nav: true
