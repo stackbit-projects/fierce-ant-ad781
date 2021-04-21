@@ -32,8 +32,6 @@ sections:
         image_align: center
       - title: WEB APPLICATION
         title_align: left
-        content: |
-          *   WEB APPLICATION
         content_align: left
         actions: []
         actions_align: left
