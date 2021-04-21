@@ -27,7 +27,7 @@ sections:
     subtitle: We work on various technologies
     align: center
     grid_items:
-      - image: images/images.png
+      - image: images/classic/icon-1.svg
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
