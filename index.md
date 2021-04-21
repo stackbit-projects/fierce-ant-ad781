@@ -31,7 +31,6 @@ sections:
         image_alt: Contentful logo
         image_align: center
       - title: WEB APPLICATION
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           *   WEB APPLICATION
