@@ -30,7 +30,7 @@ sections:
       - image: images/classic/icon-1.svg
         image_alt: Contentful logo
         image_align: center
-      - title: lorem-ipsum
+      - title: WEB APPLICATION
         subtitle: lorem-ipsum
         title_align: left
         content: |
