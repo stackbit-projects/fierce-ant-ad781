@@ -13,7 +13,7 @@ sections:
         style: primary
       - url: /features
         style: secondary
-        label: SWRVICES
+        label: SERVICES
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
