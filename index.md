@@ -43,7 +43,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/download (2).png
-      - image: images/logo-2.svg
+      - image: images/images (1).png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
