@@ -144,7 +144,7 @@ sections:
     title: WHY US ?
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
+      - title: Experience with Expertise
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
