@@ -72,7 +72,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: SOFTWARES
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
