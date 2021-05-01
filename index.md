@@ -181,10 +181,7 @@ sections:
         title: Premium Quality Services
       - title: 100% Data Security
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Our systems are\_ISO 27001: 2013\_certified and compatible with the GDPR standards to ensure the best[\_information and data security](https://infolks.info/data-security). Apart from that, all our employees are also advised to sign an NDA\n\n"
         content_align: left
         actions:
           - label: Learn More
