@@ -42,9 +42,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: BLOG
-      url: /blog
-      style: link
     - label: PRICING
       url: /style-guide
       style: link
