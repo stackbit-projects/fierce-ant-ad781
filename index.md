@@ -92,7 +92,13 @@ sections:
       - title: Data Labeling Platform
         content: >+
           Accurate data labeling services at the most reasonable rate in the
-          global marketplace
+          global marketplace.
+
+
+          Training intelligent machines with algorithms require precise datasets
+          that are processed using different annotation techniques. Being an
+          image labeling expert, we have immense experience and expertise in
+          various types of data annotation services.
 
         actions:
           - label: Learn More
