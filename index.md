@@ -185,7 +185,7 @@ sections:
         image_has_padding: true
         subtitle: Premium Quality Services
         title: Premium Quality Services
-      - title: Section Item 3
+      - title: 100% Data Security
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
