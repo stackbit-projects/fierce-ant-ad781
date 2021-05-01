@@ -146,10 +146,7 @@ sections:
     grid_items:
       - title: Experience with Expertise
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "We have service experience of around\_5 years\_in the data labeling field. Over the course of time, we have annotated data of various use-cases.\n\n"
         content_align: left
         actions:
           - label: Learn More
