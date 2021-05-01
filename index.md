@@ -162,10 +162,7 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "We ensure the best quality services through a\_[triple-level quality assurance system](https://infolks.info/quality)\_. Our systems are\_ISO 9001: 2015\_certified. The three level mechanism consists of annotators, approvers, and QC managers.\n\n"
         content_align: left
         actions:
           - label: Learn More
