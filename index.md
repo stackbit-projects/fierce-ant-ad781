@@ -183,6 +183,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        subtitle: Premium Quality Services
       - title: Section Item 3
         title_align: left
         content: >-
