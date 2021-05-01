@@ -90,10 +90,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Data Labeling Platform
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Accurate data labeling services at the most reasonable rate in the
+          global marketplace
+
         actions:
           - label: Learn More
             url: /style-guide
