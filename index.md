@@ -43,8 +43,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/programming-language2.png
-      - image: >-
-          images/png-clipart-organization-computer-icons-drawing-logo-teamwork-icon-angle-white.png
+      - image: images/programming-language3.png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
