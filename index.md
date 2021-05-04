@@ -27,7 +27,7 @@ sections:
     subtitle: We work on various technologies
     align: center
     grid_items:
-      - image: images/classic/icon-1.svg
+      - image: images/programming-language1.png
         image_alt: Contentful logo
         image_align: center
       - title: WEB APPLICATION
