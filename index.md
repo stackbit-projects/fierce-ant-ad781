@@ -30,6 +30,7 @@ sections:
       - image: images/service-1.png
         image_alt: Contentful logo
         image_align: center
+        title: Web Design & Web Development
       - image: images/service-2.png
         image_alt: Netlify logo
         image_align: center
