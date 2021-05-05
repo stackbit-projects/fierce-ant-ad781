@@ -84,10 +84,11 @@ sections:
     features:
       - title: SOFTWARES
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          We take structured and consistent steps to increase the effectiveness
+          of PPC. We are the best web design company  offering guaranteed
+          improvement by well-designed PPC Management Solutions to the clients.
+
         actions:
           - label: Learn More
             url: /style-guide
