@@ -83,7 +83,6 @@ sections:
     subtitle: Features Section Example
     features:
       - title: SOFTWARES
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >+
           We take structured and consistent steps to increase the effectiveness
           of PPC. We are the best web design company  offering guaranteed
