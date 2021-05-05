@@ -27,7 +27,7 @@ sections:
     subtitle: We work on various technologies
     align: center
     grid_items:
-      - image: images/programming-language5.png
+      - image: images/service-1.png
         image_alt: Contentful logo
         image_align: center
       - image: images/programming-language3.png
