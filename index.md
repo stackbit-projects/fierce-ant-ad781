@@ -36,7 +36,7 @@ sections:
       - image: images/service-3.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/marvelous-tomato.png
+      - image: images/service-4.png
         image_alt: Sanity logo
         image_align: center
       - image: images/programming-language6.png
