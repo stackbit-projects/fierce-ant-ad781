@@ -48,7 +48,7 @@ sections:
       - image: images/service-7.png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-8.svg
+      - image: images/service-8.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
