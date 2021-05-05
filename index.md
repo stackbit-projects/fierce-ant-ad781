@@ -34,6 +34,7 @@ sections:
       - image: images/service-2.png
         image_alt: Netlify logo
         image_align: center
+        title: Ecommerce Website Development
       - image: images/service-3.png
         image_alt: Gatsby logo
         image_align: center
