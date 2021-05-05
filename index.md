@@ -39,7 +39,7 @@ sections:
       - image: images/service-4.png
         image_alt: Sanity logo
         image_align: center
-      - image: images/programming-language6.png
+      - image: images/service-5.png
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
