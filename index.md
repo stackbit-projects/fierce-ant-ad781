@@ -51,6 +51,7 @@ sections:
         image_alt: DatoCMS logo
         image_align: center
         title: Digital Marketing & SEO Services
+        title_align: center
       - image: images/service-6.png
         image_alt: Next.js logo
         image_align: center
