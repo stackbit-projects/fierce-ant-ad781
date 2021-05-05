@@ -33,7 +33,7 @@ sections:
       - image: images/service-2.png
         image_alt: Netlify logo
         image_align: center
-      - image: images/programming-language4.png
+      - image: images/service-3.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/marvelous-tomato.png
