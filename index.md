@@ -43,6 +43,7 @@ sections:
       - image: images/service-4.png
         image_alt: Sanity logo
         image_align: center
+        title: Software Development
       - image: images/service-5.png
         image_alt: DatoCMS logo
         image_align: center
