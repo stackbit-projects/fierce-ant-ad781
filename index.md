@@ -51,8 +51,7 @@ sections:
       - image: images/service-8.png
         image_alt: Git logo
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
