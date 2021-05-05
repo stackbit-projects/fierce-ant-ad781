@@ -70,8 +70,8 @@ sections:
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: left
-        image_width: fifty
-        image_align: left
+        image_width: twenty-five
+        image_align: center
         image_has_padding: false
         type: grid_item
         image: images/service-9.png
