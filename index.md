@@ -56,6 +56,7 @@ sections:
         image_alt: Next.js logo
         image_align: center
         title: Social Media Optimization
+        title_align: center
       - image: images/service-7.png
         image_alt: Gridsome logo
         image_align: center
