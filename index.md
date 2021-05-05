@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: SERVICES
     subtitle: We work on various technologies
     align: center
     grid_items:
