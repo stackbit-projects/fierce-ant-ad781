@@ -38,6 +38,7 @@ sections:
       - image: images/service-3.png
         image_alt: Gatsby logo
         image_align: center
+        title: Mobile App Development
       - image: images/service-4.png
         image_alt: Sanity logo
         image_align: center
