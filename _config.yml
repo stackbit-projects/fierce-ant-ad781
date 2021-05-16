@@ -33,9 +33,6 @@ header:
       new_window: false
       no_follow: false
       type: action
-    - label: PRICING
-      url: /style-guide
-      style: link
   has_secondary_nav: true
   secondary_nav_links:
     - label: Contact
