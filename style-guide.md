@@ -29,16 +29,4 @@ Accurately labelled data is mandatory for Machine Learning and Artificial Intell
 
 #
 
-#### Autonomous Vehicles
-
-We help you prepare a wide range of datasets for training and validating autonomous vehicles. We have worked with a Fortune 10\* company in the use case for around 2.5 years with a team of around 110 annotators. Know more regarding the [types of annotation](https://infolks.info/annotation-techniques) we do.
-*(\*Disclosure of client details are strictly limited due to sitting NDA’s)*
-
-**
-
-##### Object Detection&#xA;&#xA;We annotate objects like vehicles, pedestrians, etc. in an image using various [annotation techniques](https://infolks.info/annotation-techniques) to enable object detection in autonomous vehicles.&#xA;&#xA;
-
-
-
-
-
+##### &#xA;&#xA;
