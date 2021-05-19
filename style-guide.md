@@ -25,7 +25,7 @@ seo:
         content
 layout: page
 ---
-Accurately labelled data is mandatory for Machine Learning and Artificial Intelligence projects. We are the No.1 data labelling company in India. Through our data labelling service, we process quality training dataset in any format suitable for your machine learning models. Our team of data labelling experts annotates various data types like images, videos, audios and text with utmost quality at reasonable service charges.
+## Accurately labelled data is mandatory for Machine Learning and Artificial Intelligence projects. We are the No.1 data labelling company in India. Through our data labelling service, we process quality training dataset in any format suitable for your machine learning models. Our team of data labelling experts annotates various data types like images, videos, audios and text with utmost quality at reasonable service charges.
 
 # This is an H1
 
