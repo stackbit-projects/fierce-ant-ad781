@@ -1,5 +1,5 @@
 ---
-title: Data Labelling Servicesfor AI Validation
+title: Data Labelling Services for AI Validation
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
