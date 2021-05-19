@@ -26,3 +26,7 @@ seo:
 layout: page
 ---
 Accurately labelled data is mandatory for Machine Learning and Artificial Intelligence projects. We are the No.1 data labelling company in India. Through our data labelling service, we process quality training dataset in any format suitable for your machine learning models. Our team of data labelling experts annotates various data types like images, videos, audios and text with utmost quality at reasonable service charges.
+
+
+
+##### Autonomous Vehicles&#xA;We help you prepare a wide range of datasets for training and validating autonomous vehicles. We have worked with a Fortune 10\* company in the use case for around 2.5 years with a team of around 110 annotators. Know more regarding the [types of annotation](https://infolks.info/annotation-techniques) we do.&#xA;*(\*Disclosure of client details are strictly limited due to sitting NDA’s)*&#xA;&#xA;&#xA;
