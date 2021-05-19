@@ -9,46 +9,6 @@ style: classic
 palette: green
 mode: light
 base_font: serif
-header:
-  title: DIY
-  logo: images/BRIZ-removebg-preview (1).png
-  logo_alt: DIY logo
-  has_primary_nav: true
-  primary_nav_links:
-    - label: HOME
-      url: /features
-      style: link
-    - label: USE CASES
-      url: /pricing
-      style: link
-    - label: TECHNIQUES
-      url: /about
-      style: link
-    - label: lorem-ipsum
-      url: '#'
-      style: link
-      has_icon: false
-      icon: arrow-left
-      icon_position: right
-      new_window: false
-      no_follow: false
-      type: action
-  has_secondary_nav: true
-  secondary_nav_links:
-    - label: Contact
-      url: /contact
-      style: link
-    - label: Get Started
-      url: /pricing
-      style: primary
-  has_anncmnt: true
-  anncmnt_content: >-
-    Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
-    More](/pricing/)**
-  anncmnt_align: left
-  anncmnt_is_home_only: true
-  anncmnt_has_close: true
-  anncmnt_id: new-features
 footer:
   logo: images/classic/logo.svg
   logo_alt: DIY logo
