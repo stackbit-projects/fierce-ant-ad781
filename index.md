@@ -57,8 +57,7 @@ sections:
       - image: images/service-7.png
         image_alt: Gridsome logo
         image_align: center
-      - image: images/service-8.png
-        image_alt: Git logo
+      - image_alt: Git logo
         image_align: center
       - title_align: left
         content_align: left
