@@ -11,9 +11,6 @@ sections:
       - label: ABOUT US
         url: /pricing
         style: primary
-      - url: /features
-        style: secondary
-        label: SERVICES
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
