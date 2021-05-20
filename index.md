@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We build web and mobile applications
+    title: Indian IT Outsourcing CompanyFor Offshore Software Development Services
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
