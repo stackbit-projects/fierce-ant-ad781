@@ -15,6 +15,7 @@ sections:
       - label: ABOUT US
         url: /pricing
         style: primary
+        has_icon: true
       - label: lorem-ipsum
         url: '#'
         style: link
