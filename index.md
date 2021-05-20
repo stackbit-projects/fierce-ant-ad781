@@ -28,6 +28,7 @@ sections:
     padding_bottom: large
     background_color: primary
     has_border: false
+    background_image_size: cover
   - type: grid_section
     title: SERVICES
     subtitle: We work on various technologies
