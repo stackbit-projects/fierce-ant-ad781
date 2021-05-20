@@ -10,7 +10,7 @@ palette: green
 mode: light
 base_font: serif
 footer:
-  logo: images/classic/logo.svg
+  logo: images/happy-triceratops.png
   logo_alt: DIY logo
   has_primary_nav: true
   primary_nav_title: Company
