@@ -4,9 +4,14 @@ sections:
   - type: hero_section
     title: Indian IT Outsourcing CompanyFor Offshore Software Development Services
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >+
+      We’re an Indian software development company focused on just one thing -
+      offshore software development services. We have 10+ years of experience
+      and a team of developers working efficiently to deliver unique solutions
+      to start-ups, software development companies, enterprises, and digital
+      agencies to simplify their IT outsourcing experience & reduce time/cost to
+      market
+
     actions:
       - label: ABOUT US
         url: /pricing
